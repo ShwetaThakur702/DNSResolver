@@ -1,4 +1,4 @@
- QuickDNS - High-Performance DNS Resolver
+# QuickDNS - High-Performance DNS Resolver
 
 [![Java](https://img.shields.io/badge/Java-17+-orange.svg)](https://www.oracle.com/java/)
 [![Performance](https://img.shields.io/badge/Performance-Sub--microsecond-green.svg)](#performance)
